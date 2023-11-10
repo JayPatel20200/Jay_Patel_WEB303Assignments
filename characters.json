@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "Jon",
+        "lastName": "Snow",
+        "gender": "Male",
+        "role": "Lord Commander",
+        "age": 25
+    },
+    {
+        "firstName": "Daenerys",
+        "lastName": "Targaryen",
+        "gender": "Female",
+        "role": "Queen",
+        "age": 23
+    },
+    {
+        "firstName": "Tyrion",
+        "lastName": "Lannister",
+        "gender": "Male",
+        "role": "Hand of the Queen",
+        "age": 40
+    },
+    {
+        "firstName": "Arya",
+        "lastName": "Stark",
+        "gender": "Female",
+        "role": "Assassin",
+        "age": 18
+    },
+    {
+        "firstName": "Sansa",
+        "lastName": "Stark",
+        "gender": "Female",
+        "role": "Lady of Winterfell",
+        "age": 20
+    },
+    {
+        "firstName": "Cersei",
+        "lastName": "Lannister",
+        "gender": "Female",
+        "role": "Queen",
+        "age": 42
+    },
+    {
+        "firstName": "Jaime",
+        "lastName": "Lannister",
+        "gender": "Male",
+        "role": "Commander of the Kingsguard",
+        "age": 38
+    }
+]

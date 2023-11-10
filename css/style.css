@@ -1,0 +1,49 @@
+.highlight {
+    background-color: darkgreen;
+    color: white;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #311D3F; /* Dark Purple */
+    color: #D1D1D1; /* Light Gray */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #9A79DE; /* Violet */
+}
+
+label, th, td {
+    color: #D1D1D1; /* Light Gray */
+}
+
+input, button {
+    padding: 8px;
+    margin: 4px;
+    border: none;
+    background-color: #9A79DE; /* Violet */
+    color: #FFFFFF; /* White */
+    cursor: pointer;
+}
+
+input::placeholder {
+    color: #D1D1D1; /* Light Gray */
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #9A79DE; /* Violet */
+}
+
+.highlight {
+    background-color: #9A79DE; /* Violet */
+    color: #FFFFFF; /* White */
+}
